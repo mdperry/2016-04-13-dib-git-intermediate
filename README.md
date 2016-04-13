@@ -5,3 +5,10 @@ Here is an edit on my localhost
 
 Today we wil discuss: confilcts, branches, merging, pull requests, forks, etc. . . . 
 Everything that you do has to be committed including here so we need to create a commit message
+Today we will disucss:
+- conflicts
+- branches
+- -mergeing
+- pull requests
+- forks
+- etc. . . . 
