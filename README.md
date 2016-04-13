@@ -1,5 +1,5 @@
 # Git DIB Training Part II
-This is an edit from github after clicking on the filename in your Web Browser and then 'clicking' on 'the pencil'
+This is an edit from [github](www.github.com) after clicking on the filename in your Web Browser and then 'clicking' on 'the pencil'
 
 Here is an edit on my localhost
 
